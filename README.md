@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepak Kumar  
 
-<!--
-**kldeepak69/kldeepak69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** | 💻 **Web Developer** | 🤖 **AI/ML Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Java DSA, Full-Stack Web Development**  
+- 🔭 Working on impactful projects in **Sustainable Tech & AI**  
+- 🎯 Goal: To become a skilled **Software Developer & AI/ML Engineer**  
+- ⚡ Fun fact: I love solving problems and optimizing real-world solutions  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+English
+Hindi
+
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://www.linkedin.com/in/deepak-kumar2028?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] 
+📧 Email: **0deepak2873i@gmail.com**  
+
+---
+
+⭐️ From [Deepak Kumar](https://github.com/kldeepak69)  

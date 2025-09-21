@@ -22,8 +22,7 @@ Hindi
 ---
 
 ## 🌐 Connect With Me  
-
-[![LinkedIn](https://www.linkedin.com/in/deepak-kumar2028/)] 
+🔗 LinkedIn: linkedin.com/in/deepak-kumar2028
 📧 Email: **0deepak2873i@gmail.com**  
 
 ---
